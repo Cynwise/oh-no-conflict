@@ -2,4 +2,4 @@
 
 
 
-more readme text to demonstrate a conflict
+more readme text to demonstrate a merge conflict
